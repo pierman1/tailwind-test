@@ -1,0 +1,7 @@
+.title-primary {
+  font-size: 40px;
+  @apply text-32;
+  @apply mb-24;
+  @apply pb-16;
+  @apply border-b-1;
+}

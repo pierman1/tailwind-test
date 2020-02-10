@@ -1,0 +1,24 @@
+{
+  "name": "verachtert",
+  "version": "1.0.0",
+  "description": "Verachtert is gespecialiseerd in de verkoop en verhuur van graafbakken voor alle merken graafmachines van klein tot groot. In ons uitgebreide assortiment hebben we een enorme variatie aan afmetingen en uitvoeringen van graafbakken beschikbaar, deels uit voorraad leverbaar",
+  "author": "Pierre Bleeker - Chimp",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "flickity": "^2.2.0",
+    "nuxt": "^2.0.0",
+    "vue-flickity": "^1.1.2"
+  },
+  "devDependencies": {
+    "node-sass": "^4.12.0",
+    "nodemon": "^1.18.9",
+    "sass-loader": "^7.1.0",
+    "tailwindcss": "^1.0.0"
+  }
+}

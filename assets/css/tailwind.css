@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@copy full {
+  @import './typography.css';
+  @import './fonts.css';
+  @import './transitions.css';
+}
