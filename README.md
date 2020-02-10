@@ -1,6 +1,4 @@
-# verachtert
-
-> Verachtert is gespecialiseerd in de verkoop en verhuur van graafbakken voor alle merken graafmachines van klein tot groot. In ons uitgebreide assortiment hebben we een enorme variatie aan afmetingen en uitvoeringen van graafbakken beschikbaar, deels uit voorraad leverbaar
+# Tailwind test
 
 ## Build Setup
 
